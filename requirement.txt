@@ -1,0 +1,4 @@
+crewai
+faiss-cpu
+lang
+ollama
